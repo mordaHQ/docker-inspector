@@ -4,6 +4,7 @@ go 1.25.6
 
 require (
 	github.com/docker/docker v27.1.1+incompatible
+	github.com/fatih/color v1.18.0
 	github.com/olekukonko/tablewriter v0.0.5
 )
 
@@ -16,7 +17,6 @@ require (
 	github.com/distribution/reference v0.6.0 // indirect
 	github.com/docker/go-connections v0.6.0 // indirect
 	github.com/docker/go-units v0.5.0 // indirect
-	github.com/fatih/color v1.18.0 // indirect
 	github.com/felixge/httpsnoop v1.0.4 // indirect
 	github.com/go-logr/logr v1.4.3 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
